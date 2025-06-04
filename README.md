@@ -70,7 +70,7 @@ Tools & Platforms:
 
 ## 🌐 Let's Connect!
 
-- 💼 [LinkedIn](linkedin.com/in/antony-austin-b7287226a) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/antony-austin-b7287226a/) 
 - 🌍 [VirtusCo Website](https://www.virtusco.in/)
 - 📧 austinantony06@gmail.com
 - 📱 +91 9048281078
