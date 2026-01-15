@@ -70,10 +70,11 @@ Tools & Platforms:
 
 ## 🌐 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/antony-austin-b7287226a/) 
-- 🌍 [VirtusCo Website](https://www.virtusco.in/)
-- 📧 austinantony06@gmail.com
-- 📱 +91 9048281078
+- [Freelance](https://pro.fiverr.com/s/yvqXQw0)
+- [LinkedIn](https://www.linkedin.com/in/antony-austin-b7287226a/) 
+- [VirtusCo Website](https://www.virtusco.in/)
+- austinantony06@gmail.com
+- +91 9048281078
 
 ---
 
