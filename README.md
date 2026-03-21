@@ -31,39 +31,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```python
-class AntonyAustin:
-    """
-    Applied Electronics Engineer. Co-founder. Aspiring VLSI Engineer.
-    Building robots that carry luggage — and chips that carry data.
-    """
-
-    role        = "Co-founder & Technical Lead @ Virtusco Robotics"
-    university  = "RSET Kerala — B.Tech Applied Electronics & Instrumentation (2023–2027)"
-    thesis      = "Electrothermal Simulation of PCM Devices — COMSOL Multiphysics (M.Tech)"
-    target      = "VLSI Engineer — long term: NVIDIA"
-    location    = "Thripunithura, Kochi, Kerala, India"
-
-    currently_building = {
-        "Virtus"       : "Autonomous airport luggage porter — B2B @ Rs.7L/unit + Rs.1.1L ARR",
-        "PCM Thesis"   : "Confined/pillar-type PCM cell · Poole-Frenkel GST · HfO2 interface layer",
-        "LiDAR Driver" : "YDLidar X4 Pro ROS 2 Jazzy driver — built from scratch",
-    }
-
-    stack = {
-        "robotics"   : ["ROS 2 Jazzy", "Nav2", "RPi 5 16GB", "Hailo-10H 40TOPS", "ESP32"],
-        "vlsi"       : ["SystemVerilog", "VHDL", "Verilog", "COMSOL Multiphysics", "FPGA"],
-        "embedded"   : ["STM32", "nRF5340 + Zephyr RTOS", "BLE/GATT", "BTS7960", "I2C/SPI/UART/CAN"],
-        "ai_ml"      : ["PyTorch", "TFLite", "Whisper", "TF-IDF+SVM", "YOLOv8", "Hailo SDK"],
-        "software"   : ["Python", "C/C++", "Flutter", "Next.js", "Docker", "Linux/Ubuntu"],
-    }
-
-    def philosophy(self) -> str:
-        return "Hardware is where software becomes real."
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ---
 
 <h2 align="center">Active Work</h2>
@@ -358,8 +325,6 @@ Mentored 45+ students
 <br/>
 
 **Antony Austin** &nbsp;|&nbsp; `austinantony06@gmail.com` &nbsp;|&nbsp; `+91 90482 81078`
-<br/>
-Thripunithura, Kochi, Kerala, India
 
 <br/>
 
