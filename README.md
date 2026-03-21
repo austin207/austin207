@@ -6,7 +6,7 @@
 <br/>
 
 <!--  TYPING TAGLINE  -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=Co-founder+%26+Technical+Lead+%40+Virtusco+Robotics;ROS+2+Jazzy+%7C+VLSI+%7C+PCM+Simulation+%7C+Embedded+Systems;Building+robots+that+work+%E2%80%94+and+chips+that+think)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Co-founder+%26+Technical+Lead+%40+Virtusco+Robotics;ROS+2+Jazzy+%7C+VLSI+%7C+PCM+Simulation+%7C+Embedded+Systems;Building+robots+that+work+%E2%80%94+and+chips+that+think)](https://git.io/typing-svg)
 
 <br/>
 
