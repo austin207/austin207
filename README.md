@@ -49,7 +49,7 @@ Airport luggage handling robot on ROS 2 Jazzy. Raspberry Pi 5 (16GB) + Hailo-10H
 
 </td>
 <td width="50%" valign="top">
-<h3 align="center">M.Tech Thesis — PCM Simulation</h3>
+<h3 align="center">B.Tech Thesis — PCM Simulation</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/COMSOL-Active-64FFDA?style=flat-square&labelColor=112240"/>
 <img src="https://img.shields.io/badge/Stationary_Study-Complete-64FFDA?style=flat-square&labelColor=112240"/>
